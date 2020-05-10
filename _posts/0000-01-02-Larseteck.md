@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"My middlefinger wont god down, how do I wave?" ~ Slim Shady
 Use the left arrow to go back!
